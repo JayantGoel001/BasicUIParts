@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Practice2020</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Basic UIParts</string>
+    <string name="fuck_off">Fuck off</string>
+    <string name="enter_the_android_version_name">Enter the android version Name?</string>
+    <string name="circle">Circle</string>
+    <string name="oval">Oval</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="roundcorner">roundCorner</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="excellent">Excellent</string>
+    <string name="good">GOOD</string>
+    <string name="click_me">Start</string>
+    <string name="_0">0</string>
+    <string name="custom_toast">Custom Toast</string>
+    <string name="pic">Pic</string>
+    <string name="spinner">Spinner</string>
+    <string name="android_version_name">Android Version Name</string>
+    <string name="alertdialog_with_gradient">AlertDialog with Gradient</string>
+    <string name="enter_the_text">Enter the Text</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="paste_from_clipboard">Paste from Clipboard</string>
+    <string name="grey">Grey</string>
+    <string name="white">White</string>
+    <string name="teal">Teal</string>
+    <string name="context_menu_click_and_hold">Context Menu (Click and Hold)</string>
+    <string name="pop_menu">Pop Menu</string>
+    <string-array name="spinnerArray" >
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>
